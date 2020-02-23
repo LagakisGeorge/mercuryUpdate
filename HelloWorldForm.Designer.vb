@@ -22,6 +22,8 @@ Partial Class HelloWorldForm
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(HelloWorldForm))
         Me.lblHelloText = New System.Windows.Forms.Label
         Me.lnkRaiseEvent = New System.Windows.Forms.LinkLabel
+        Me.Button1 = New System.Windows.Forms.Button
+        Me.Button2 = New System.Windows.Forms.Button
         Me.SuspendLayout()
         '
         'lblHelloText
@@ -41,11 +43,25 @@ Partial Class HelloWorldForm
         Me.lnkRaiseEvent.Name = "lnkRaiseEvent"
         Me.lnkRaiseEvent.TabStop = True
         '
+        'Button1
+        '
+        resources.ApplyResources(Me.Button1, "Button1")
+        Me.Button1.Name = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Button2
+        '
+        resources.ApplyResources(Me.Button2, "Button2")
+        Me.Button2.Name = "Button2"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
         'HelloWorldForm
         '
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.DarkOrange
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.lnkRaiseEvent)
         Me.Controls.Add(Me.lblHelloText)
         Me.Name = "HelloWorldForm"
@@ -54,5 +70,7 @@ Partial Class HelloWorldForm
     End Sub
     Friend WithEvents lblHelloText As System.Windows.Forms.Label
     Friend WithEvents lnkRaiseEvent As System.Windows.Forms.LinkLabel
+    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents Button2 As System.Windows.Forms.Button
 
 End Class

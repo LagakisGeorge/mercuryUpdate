@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\bin\Debug\MyCompany.HelloWorld.dll
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\bin\Debug\MyCompany.HelloWorld.pdb
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\bin\Debug\MyCompany.xml
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\bin\Debug\MyCompany.HelloWorld.tlb
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.HelloWorld.HelloWorldForm.resources
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.HelloWorld.Resources.resources
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.HelloWorld.dll
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.xml
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.HelloWorld.pdb
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.HelloWorld.Form1.resources
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Debug\MyCompany.HelloWorld.Form2.resources

@@ -8,3 +8,6 @@ C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Release\MyCompany.HelloWorld.dll
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Release\MyCompany.xml
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Release\MyCompany.HelloWorld.pdb
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\bin\Release\MyCompany.HelloWorld.tlb
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Release\MyCompany.HelloWorld.Form1.resources
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld\obj\Release\MyCompany.HelloWorld.Form2.resources
