@@ -18,7 +18,6 @@ C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\bin\Debug\System.IO.Compression.FileSystem.dll
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\bin\Debug\System.IO.Compression.xml
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\bin\Debug\System.IO.Compression.FileSystem.xml
-C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\obj\Debug\MyCompany.HelloWorld.vbprojAssemblyReference.cache
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\obj\Debug\MyCompany.HelloWorld.Form1.resources
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\obj\Debug\MyCompany.HelloWorld.Form2.resources
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\obj\Debug\MyCompany.HelloWorld.HelloWorldForm.resources
@@ -30,3 +29,4 @@ C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\obj\Debug\MyCompany.xml
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\obj\Debug\MyCompany.HelloWorld.pdb
 C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\bin\Debug\MyCompany.HelloWorld.tlb
+C:\Users\User\Desktop\Interop Forms Toolkit 2.1\Sample Applications\Hello World\MyCompany.HelloWorld2019\obj\Debug\MyCompany.HelloWorld.vbprojAssemblyReference.cache

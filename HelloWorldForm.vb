@@ -102,6 +102,86 @@ Public Class HelloWorldForm
         s.Show()
     End Sub
 
+    Private Sub HelloWorldForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'If lblHelloText.Text = "1" Then
+        '    lblHelloText.Text = "11"
+        '    Me.Hide()
+        '        Dim s As New Form1
+        '        s.ShowDialog()
+        '        Me.Close()
+
+
+
+
+        '    End If
+
+
+        'If lblHelloText.Text = "2" Then
+        '    lblHelloText.Text = "22"
+
+        '    Me.Hide()
+        '    Dim s As New Form2
+        '    s.ShowDialog()
+        '    Me.Close()
+
+        'End If
+
+
+
+
+
+    End Sub
+
+    Private Sub HelloWorldForm_Paint(sender As Object, e As PaintEventArgs) Handles Me.Paint
+        If lblHelloText.Text = "1" Then
+            lblHelloText.Text = "121"
+            Me.Hide()
+            Dim s As New Form1
+            s.ShowDialog()
+            Me.Close()
+
+
+
+
+        End If
+
+
+        If lblHelloText.Text = "2" Then
+            lblHelloText.Text = "222"
+
+            Me.Hide()
+            Dim s As New Form2
+            s.ShowDialog()
+            Me.Close()
+
+        End If
+    End Sub
+
+    Private Sub HelloWorldForm_ResizeEnd(sender As Object, e As EventArgs) Handles Me.ResizeEnd
+        'If lblHelloText.Text = "1" Then
+        '    lblHelloText.Text = "113"
+        '    '  Me.Hide()
+        '    Dim s As New Form1
+        '    '  s.ShowDialog()
+        '    ' Me.Close()
+
+
+
+
+        'End If
+
+
+        'If lblHelloText.Text = "2" Then
+        '    lblHelloText.Text = "223"
+
+        '    '  Me.Hide()
+        '    Dim s As New Form2
+        '    '  s.ShowDialog()
+        '    '  Me.Close()
+
+        'End If
+    End Sub
+
 
 #End Region
 
